@@ -1,6 +1,6 @@
 - 👋 Hi, I am @ MehranAkbar
 - 👀 I’m interested in web development
-- 📫 I worked with Django for backend and Html, Bootstrap, CSS, JavaScript and Jquery for front end
-- 💞️ I integrated third party api services like Google, Stripe, Facebook, Youtube, Binance in my web projects
+- 📫 I worked with Django for the backend and HTML, Bootstrap, CSS, JavaScript, and JQuery for the frontend
+- 💞️ I integrated third-party API services like Google, Stripe, Facebook, YouTube, and Binance in my web projects
 - 📬 mehrankhan6799@gmail.com
-- 📞 +923155864145
+- 📞 +923185286167
