@@ -14,7 +14,7 @@ I'm a dedicated full-stack developer with a keen eye for crafting seamless, resp
 ### Let's Connect:
 - 📧 Email: [mehrankhan6799@gmail.com](mailto:mehrankhan6799@gmail.com)  
 - 📞 Phone: +92 318 5286167  
-- 🌐 Portfolio: [mehranakbar.github.io/portfolio](https://mehranakbar.github.io/portfolio/index.html)
+- 🌐 Portfolio:[mehranakbar.github.io/portfolio](https://mehranakbar.github.io/portfolio/index.html)](https://mehran-akbar-portfolio.vercel.app/)
 ---
 Feel free to explore my work and get in touch if you want to collaborate or chat about web development!
 
